@@ -1,0 +1,7 @@
+npm i express
+npm i nodemon
+npm i sequelize
+npm i mysql2
+npm i express-handlebars
+npm i body-parser
+npm i bootstrap@4
